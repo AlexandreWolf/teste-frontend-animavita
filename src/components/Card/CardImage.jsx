@@ -1,6 +1,6 @@
 import React from "react";
 import Image from '../HtmlCommon/Image'
-import imageDefault from "../../assets/img/teste.jpg"
+import imageDefault from "../../assets/img/default.jpg"
 
 export const CardImage = ({ image, title }) => {
 
